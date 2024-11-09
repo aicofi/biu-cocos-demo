@@ -1,0 +1,12 @@
+{
+  "name": "PaygoMiniGameDemo",
+  "uuid": "7c57f22c-4fa3-4372-a030-f19e55596a47",
+  "version": "3.0.0",
+  "_sourceId": "c30b28da-749e-479b-bcb6-cecd8d7be9e3",
+  "creator": {
+    "version": "3.8.3"
+  },
+  "dependencies": {
+    "@paygo-biu/minigame-sdk": "file:../../paygo-client/minigame-sdk/dist/paygo-biu-minigame-sdk-1.0.0.tgz"
+  }
+}
