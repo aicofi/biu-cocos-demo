@@ -7,6 +7,6 @@
     "version": "3.8.3"
   },
   "dependencies": {
-    "@paygo-biu/minigame-sdk": "file:../../paygo-client/minigame-sdk/dist/paygo-biu-minigame-sdk-1.0.0.tgz"
+    "@paygo-biu/minigame-sdk": "file:sdk/paygo-biu-minigame-sdk-1.0.0.tgz"
   }
 }
